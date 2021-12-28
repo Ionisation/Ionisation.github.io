@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Tools
+layout : default
+title:  Tools
 ---
 
 # Scientific softwares and coding languages
