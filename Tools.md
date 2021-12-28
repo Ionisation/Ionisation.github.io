@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tools
+---
+
 # Scientific softwares and coding languages
 
 * Matlab: convenient if your institution has an account
