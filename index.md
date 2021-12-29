@@ -1,14 +1,16 @@
-# Introduction
+# Music Acoustics
+
+## Introduction
 
 Test website
 
-# Outline
+## Outline
 
 [Useful tools](https://github.com/Ionisation/Ionisation.github.io/blob/main/Tools.md)
 
-# delete next sections :
+## delete next sections :
 
-## Welcome to GitHub Pages
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Ionisation/Ionisation.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
